@@ -201,9 +201,9 @@ exports[`Config Plugin iOS Tests tests changes made to AppDelegate.m with fallba
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions
 {
-// @generated begin @react-native-firebase/app-didFinishLaunchingWithOptions-fallback - expo prebuild (DO NOT MODIFY) sync-5b7813c3af090f886568429140e982730142dbe7
+// @generated begin @react-native-firebase/dynamic-links-didFinishLaunchingWithOptions-fallback - expo prebuild (DO NOT MODIFY) sync-5b7813c3af090f886568429140e982730142dbe7
 [RNFBDynamicLinksAppDelegateInterceptor sharedInstance];
-// @generated end @react-native-firebase/app-didFinishLaunchingWithOptions-fallback
+// @generated end @react-native-firebase/dynamic-links-didFinishLaunchingWithOptions-fallback
 
 // The generated code should appear above ^^^
 #if defined(FB_SONARKIT_ENABLED) && __has_include(<FlipperKit/FlipperClient.h>)
